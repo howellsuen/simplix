@@ -10554,3 +10554,8 @@ body {
     max-width: 800px;
     max-height: 800px;
 }
+
+.product-video {
+    width: 100%;
+    height: auto;
+}
